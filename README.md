@@ -102,4 +102,4 @@ A modular, production-ready algo-trading system for NIFTY stocks featuring:
 
 ## Demo
 - [Add Loom/OBS video link here]
-- [Google Sheet link here]{https://docs.google.com/spreadsheets/d/1XT_is_R2tR_qscBiSxie2PP5ZSfjNe1DqpScPoK-1Eo/edit?gid=1395192561#gid=1395192561}
+- [Google Sheet link here](https://docs.google.com/spreadsheets/d/1XT_is_R2tR_qscBiSxie2PP5ZSfjNe1DqpScPoK-1Eo/edit?gid=1395192561#gid=1395192561)
