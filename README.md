@@ -101,5 +101,6 @@ A modular, production-ready algo-trading system for NIFTY stocks featuring:
 - CSV backups are saved in `results/`.
 
 ## Demo
-- [Add Loom/OBS video link here]
+- [Code Demo](https://drive.google.com/file/d/1-ABP61ZSnUG-wBTFYcuKkPJaBV0ZKqpK/view?usp=sharing)
+- [Telegram](https://drive.google.com/file/d/1-Mp886JmTO2aVSvTce8fXc3-GvpHPoCR/view?usp=sharing)
 - [Google Sheet link here](https://docs.google.com/spreadsheets/d/1XT_is_R2tR_qscBiSxie2PP5ZSfjNe1DqpScPoK-1Eo/edit?gid=1395192561#gid=1395192561)
